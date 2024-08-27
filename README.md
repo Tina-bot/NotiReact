@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img/>
 
 
->> Notiteame is an app inspired by the classic Paint, but with a modern and more adorable touch. ✨  </p>
+>> Notiteame is an app inspired by the classic Paint, but with a simple and more adorable touch. ✨  </p>
 >> It uses React, Vite and TailwindCSS to offer you a fast and friendly experience to create your own works of art. 🎨🖌️ </p>
 
 ## What does this? 👀
