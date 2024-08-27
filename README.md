@@ -22,7 +22,7 @@
 ## Live 🌐
 🎨 https://notiteame.netlify.app/ 🎨
 
-TO-DO 📝
+## TO-DO 📝
 <ul> <li>Implement support for mobile version with <strong>touch</strong> 📱</li> <li>Add <strong>fill</strong> tool to complete areas of the drawing 🖍️</li> <li>Add <strong>share</strong> button so you can show your creations with a click 📣</li>
 </ul>
 
