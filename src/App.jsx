@@ -3,7 +3,7 @@ import CanvasComponent from './components/CanvasComponent';
 import Toolbar from './components/ToolbarComponent';
 import './App.css';
 
-const PaintApp = () => {
+const App = () => {
   const canvasRef = React.useRef(null);
   const [color, setColor] = useState('#000000');
   const [lineWidth, setLineWidth] = useState(5);
@@ -34,4 +34,4 @@ const PaintApp = () => {
   );
 };
 
-export default PaintApp;
+export default App;
