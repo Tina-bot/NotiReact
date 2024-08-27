@@ -6,18 +6,18 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img/>
 
 
->> Notiteame is an app inspired by the classic Paint, but with a modern and more adorable touch. 😘
+>> Notiteame is an app inspired by the classic Paint, but with a modern and more adorable touch. 😘  </p>
 >> It uses React, Vite and TailwindCSS to offer you a fast and friendly experience to create your own works of art. 🎨🖌️ </p>
 
 ## What does this? 👀
-> Draw directly on a full-screen canvas that automatically adjusts in size.
-> Select the color and thickness of your stroke.
-> Undo and redo functions for your last strokes.
-> Download your drawings as PNG or with a white background. 📥
->  <i> Draw something cute and give it to that person ♡ </i>
+> Draw directly on a full-screen canvas that automatically adjusts in size. </p>
+> Select the color and thickness of your stroke. </p>
+> Undo and redo functions for your last strokes. </p>
+> Download your drawings as PNG or with a white background. 📥 </p>
+>  <i> Draw something cute and give it to that person ♡ </i> </p>
 
 ## Screenshots 📷
-<img width="1186" alt="Captura de pantalla 2023-10-17 a la(s) 19 31 47" src="https://github.com/user-attachments/assets/f9005a76-4238-42d8-b8d1-78d6a0cb6954">
+<img width="860" alt="Captura de pantalla 2023-10-17 a la(s) 19 31 47" src="https://github.com/user-attachments/assets/f9005a76-4238-42d8-b8d1-78d6a0cb6954">
 
 ## Live 🌐
 🎨 https://notiteame.netlify.app/ 🎨
